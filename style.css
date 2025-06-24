@@ -1,0 +1,6 @@
+body { font-family: sans-serif; background: #f7fafc; color: #2d3748; margin: 0; }
+header, footer { background: #e6fffa; padding: 1rem; text-align: center; }
+nav a { margin: 0 1rem; color: #319795; text-decoration: none; }
+section { padding: 2rem; text-align: center; }
+#hero { background: #c6f6d5; }
+h1, h2, h3 { color: #2f855a; }
